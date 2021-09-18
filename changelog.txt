@@ -1,2 +1,3 @@
+Smoggy v1.1
 &a[+] Auth
 &a[+] Fixed cheststealer auto-close
